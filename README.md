@@ -5,6 +5,18 @@ General optimization (LP, MIP, QP etc.) using Python.
 
 ![lp1](https://people.richland.edu/james/lecture/m116/systems/linear.png)
 
+---
+
+## Requirements
+
+* Python 3+
+* scipy (`pip install scipy`)
+* numpy (`pip install numpy`)
+* PuLP (`pip install pulp`)
+* CVXPY (`pip install cvxpy`)
+
+---
+
 ### [Read my article on Medium about optimization in machine learning algorithms](https://towardsdatascience.com/a-quick-overview-of-optimization-models-for-machine-learning-and-statistics-38e3a7d13138)
 
 ### [Read my article on Medium about optimization with SciPy](https://towardsdatascience.com/optimization-with-scipy-and-application-ideas-to-machine-learning-81d39c7938b8)
