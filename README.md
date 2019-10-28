@@ -1,9 +1,9 @@
-## Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
-
 # Optimization-Python
 General optimization (LP, MIP, QP etc.) using Python.
 
 ![lp1](https://people.richland.edu/james/lecture/m116/systems/linear.png)
+
+### Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
 
 ---
 
