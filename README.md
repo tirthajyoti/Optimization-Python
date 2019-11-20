@@ -1,5 +1,5 @@
 # Optimization-Python
-### General optimization (LP, MIP, QP etc.) code examples using Python.
+### General optimization (LP, MIP, QP etc.) examples using Python.
 
 ![lp1](https://people.richland.edu/james/lecture/m116/systems/linear.png)
 
