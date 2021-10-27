@@ -1,7 +1,11 @@
 # Optimization-Python
-General optimization (LP, MIP, QP etc.) examples using Python.
+
+## General optimization (LP, MIP, QP etc.) examples using Python.
 
 ![lp1](https://people.richland.edu/james/lecture/m116/systems/linear.png)
+
+## Fast optimization for complex simulations using Scipy interpolate
+![simu-interpolate](https://raw.githubusercontent.com/tirthajyoti/Optimization-Python/master/images/Simu-interpolate-Header.png)
 
 ### Please feel free to [connect with me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science, machine learning.
 
